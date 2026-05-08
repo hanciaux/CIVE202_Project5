@@ -1,6 +1,6 @@
 # CIVE202_Project5
 
-Introduction 
+## Introduction 
 Project Background 
 Risk Averse, LLC is looking for a complete analysis of a specific natural hazard across six states in the same region. This project will provide the analysis of hurricane patterns in Alabama, Florida, Georgia, Louisiana, Mississippi, and Texas by utilizing python code to generate plots that are clear and descriptive of the data that they represent. The natural hazard and census data featured in the following graphs is sourced from NRI Census Tract and SVI datasets for the given states.
 Scope of Work 
